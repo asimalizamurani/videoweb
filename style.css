@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: futura;
+    text-align: center;
+    color: red;
+}
+
+.iframe_videos {
+    width: 30%;
+    height: 40vh;
+}
+
+iframe {
+    margin: 9px 15px;
+    border-radius: 5px;
+}
+
+audio {
+    width: 100%;
+    margin-top: 10px;
+    background-color: rgb(255, 10, 169);
+    border-radius: 40px;
+    padding: 15px 5px;
+
+}
